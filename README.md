@@ -1,6 +1,6 @@
-# OPS-IQ-chatbot-
-I am currently building ‘OpsIQ’, an AI-powered operations chatbot that allows users to query a real-world supply chain database using simple questions.
 # OpsIQ – AI-Powered Operations Chatbot
+I am currently building ‘OpsIQ’, an AI-powered operations chatbot that allows users to query a real-world supply chain database using simple questions.
+
 
 It will allow users to query a real-world 180,000+ row supply chain 
 database using plain English questions — no SQL knowledge required.
